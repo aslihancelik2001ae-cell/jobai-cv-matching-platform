@@ -34,25 +34,20 @@ The documented schedule covers an 8-week academic timeline. The documented criti
 The project analysis estimates approximately 9.2 weeks for the critical path, creating a schedule risk against the 8-week academic deadline.
 
 ## Repository Structure
-```text
-jobai-project/
+Repository Structure
 ├── README.md
-├── docs/
-│   ├── project-overview-redacted.docx
-│   ├── project-requirements.docx
-│   ├── methodology.docx
-│   ├── constraints-and-assumptions.docx
-│   ├── project-risks-analysis.docx
-│   ├── cost-analysis.docx
-│   ├── projet-timeline.docx
-│   ├── mockups.docx
-│   └── test-scenario-3.docx
-├── planning/
-│   └── gantt-chart.xlsx
-└── assets/
-    ├── critical-path.jpg
-    └── project-board.jpg
-```
+├── Constraints-and-Assumptions.docx
+├── Cost-Analysis.docx
+├── Methodology.docx
+├── Mockups.docx
+├── Project-Requirements.docx
+├── Project-Risks-Analysis.docx
+├── Projet-Timeline.docx
+├── Test-Scenario-3.docx
+├── project-overview-redacted.docx
+├── gantt-chart.xlsx
+├── critical-path.jpg
+└── project-board.jpg
 
 ## Technologies / Platforms Discussed
 The documentation discusses web technologies, REST APIs, NLP/AI services, Firebase/Supabase, and free-tier hosting such as Vercel/Netlify/GitHub Pages. Specific implementation source files were not included in the submitted archive.
