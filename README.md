@@ -34,6 +34,7 @@ The documented schedule covers an 8-week academic timeline. The documented criti
 The project analysis estimates approximately 9.2 weeks for the critical path, creating a schedule risk against the 8-week academic deadline.
 
 ## Repository Structure
+"
 ├── README.md
 ├── Constraints-and-Assumptions.docx
 ├── Cost-Analysis.docx
@@ -47,6 +48,7 @@ The project analysis estimates approximately 9.2 weeks for the critical path, cr
 ├── gantt-chart.xlsx
 ├── critical-path.jpg
 └── project-board.jpg
+"
 
 ## Technologies / Platforms Discussed
 The documentation discusses web technologies, REST APIs, NLP/AI services, Firebase/Supabase, and free-tier hosting such as Vercel/Netlify/GitHub Pages. Specific implementation source files were not included in the submitted archive.
