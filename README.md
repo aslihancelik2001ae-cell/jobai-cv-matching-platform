@@ -34,7 +34,6 @@ The documented schedule covers an 8-week academic timeline. The documented criti
 The project analysis estimates approximately 9.2 weeks for the critical path, creating a schedule risk against the 8-week academic deadline.
 
 ## Repository Structure
-Repository Structure
 ├── README.md
 ├── Constraints-and-Assumptions.docx
 ├── Cost-Analysis.docx
